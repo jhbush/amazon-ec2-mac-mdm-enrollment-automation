@@ -1,7 +1,0 @@
-[
-  { "ParameterKey": "JamfDomainNameOrIP", "ParameterValue": "https://coffeecatsnfr.jamfcloud.com/" },
-  { "ParameterKey": "JamfEnrollmentUser", "ParameterValue": "jamfadmin" },
-  { "ParameterKey": "JamfEnrollmentUserPassword", "ParameterValue": "YourJamfPassword123" },
-  { "ParameterKey": "LocalAdmin", "ParameterValue": "ec2-user" },
-  { "ParameterKey": "LocalAdminPassword", "ParameterValue": "sohpyp-1wufme-dorwYg" }
-]
