@@ -1,0 +1,24 @@
+# Ignore parameter file
+params.json
+
+# AWS credentials and config files (if accidentally in repo)
+*.pem
+*.key
+*.env
+.aws/
+*.aws-credentials
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node modules (if using JavaScript/TypeScript)
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
