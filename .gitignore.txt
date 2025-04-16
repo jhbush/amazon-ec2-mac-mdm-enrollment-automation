@@ -1,5 +1,7 @@
 # Ignore parameter file
 params.json
+**/param.json
+
 
 # AWS credentials and config files (if accidentally in repo)
 *.pem
